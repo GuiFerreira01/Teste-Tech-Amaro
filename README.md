@@ -57,4 +57,11 @@ Os seguintes aspectos serão avaliados:
 - **Documentação:** README com instruções claras para rodar o projeto.  
 - **Funcionalidades Implementadas:** Conformidade com os requisitos.  
 - **Interface:** Usabilidade e responsividade.  
-- **Tratamento de Erros:** Validação e gerenciamento de erros com respostas claras e uso correto dos códigos de status HTTP.
+- **Tratamento de Erros:** Validação e gerenciamento de erros com respostas claras e uso correto dos códigos de status HTTP.  
+
+---
+
+## **Entrega do Projeto**
+
+- O candidato deve criar um **repositório privado no GitHub** e conceder acesso ao usuário: **GuiFerreira01**.
+- O repositório deve conter todas as instruções necessárias para rodar o projeto no arquivo **README**.
