@@ -40,7 +40,8 @@ Desenvolver uma aplicação Full Stack para gerenciamento de produtos, permitind
 ## **Diferenciais**
 
 - Uso de **TypeScript** no front-end e back-end.  
-- Utilização de **React Query** ou **Redux** no front-end.  
+- Utilização de **React Query**.
+- Utilização do **Redux**.
 - Implementação de **Docker** para facilitar o setup do projeto.  
 - **Upload de Imagens** na criação e edição de produtos.  
 - Deploy da aplicação (indique onde foi feito no README).  
